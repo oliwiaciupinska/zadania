@@ -1,4 +1,3 @@
-
 ### Meet the Interactive Feature Trainer
 
 This interactive course will guide you through a lot of IDE workflows and use cases. It comes with many helpful action shortcuts. You don't need to memorize all of them. Instead, try them and take into your service the most useful ones. Since during your everyday work, you might encounter new problems, revisit this course and give other features a second try. Stay tuned for new lessons helping you to be more productive with IntelliJ IDEA.
@@ -24,4 +23,3 @@ If there is another issue, try to restart the lesson or report the bug in [our b
 To return to the welcome screen, just close the project window. Alternatively, you can select `File | Close Project` from the main menu. Also, you can use the `File` menu to open or create new projects. By default, the `Learn` tool window is hidden. You can open it by selecting `Help | Learn IDE Features` from the main menu.
 
 We will appreciate you leaving your feedback about this learning course!
-  
